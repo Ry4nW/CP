@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ryanb/Documents/Programming/CP/CP/USACO/Silver",
-      "program": "c:/Users/ryanb/Documents/Programming/CP/CP/USACO/Silver/build/Debug/outDebug",
+      "cwd": "c:/Users/ryanb/Documents/Programming/CP/CP/CF/Cereal",
+      "program": "c:/Users/ryanb/Documents/Programming/CP/CP/CF/Cereal/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
